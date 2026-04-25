@@ -107,19 +107,14 @@ body {
     border-radius: 24px;
 }
 
-.video-container {
+video-container {
     margin: 50px auto 70px;
 }
 
 .video-container .relative {
-    max-width: 1200px;
-    box-shadow: 0 40px 80px rgba(0, 0, 0, 0.8);
-    border-radius: 28px;
+    box-shadow: 0 35px 80px rgba(0, 0, 0, 0.75);
+    border-radius: 24px;
     overflow: hidden;
-}
-
-.video-container iframe {
-    border-radius: 28px;
 }
 
 .price-box {
